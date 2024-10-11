@@ -1,3 +1,5 @@
+# Want to contribute in Hackoctoberfest 2024 in this repo? 
+
 # Time Tracker VS Code Extension
 
 Introduction:
@@ -16,3 +18,5 @@ Key Features can be added:
 
 * Please fork the repository and get youself assinged an issue on which you want to work.
 * To gather more information about the PRs please check the file Contributing.md.
+
+
